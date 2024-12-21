@@ -10,7 +10,7 @@
 // asort() > dizinin değerlerini anahtarlarıyla ilişkilerini bozmadan küçükten büyüğe doğru sıralar.
 // arsort() > dizinin değerlerini anahtarlarıyla ilişkilerini bozmadan büyükten küçüğe doğru sıralar.
 // ksort() > diziyi anahtarlarına göre küçükten büyüğe doğru sıralar.
-// krsort() > diziyi anahtarlarına göre büyükten küçüğe doğru sıralar.
+// krsort() > diziyi anahtarlarına göre büyükten küçüğe doğru sıralar .
 
 $dizi = [
     1 => 1,
